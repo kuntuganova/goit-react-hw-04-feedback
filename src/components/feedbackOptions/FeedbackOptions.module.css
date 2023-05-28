@@ -1,0 +1,18 @@
+.ul {
+    list-style: none;
+    display: flex;
+    gap: 5px; 
+    padding: 0;
+}
+
+.btn {
+    width: 90px;
+    height: 25px;
+    border-radius: 10px;
+    background-color:rgb(195, 225, 244);
+    font-weight: bold;
+}
+
+.btn:first-letter {
+    text-transform: uppercase;
+}
